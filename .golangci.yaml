@@ -18,7 +18,7 @@ linters-settings:
     int-conversion: false
     errorf: true
     sprintf1: false
-    strconcat: false
+    strconcat: true
   revive:
     enable-all-rules: false
     rules:
